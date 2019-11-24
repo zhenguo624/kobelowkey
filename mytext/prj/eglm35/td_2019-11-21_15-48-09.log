@@ -1,0 +1,30 @@
+============================================================
+   Tang Dynasty, V4.6.14314
+   Copyright:   Shanghai Anlogic Infotech Co., Ltd.
+                2011 - 2021
+   Executable = D:/Mysoftware/TD_RELEASE/bin/td.exe
+   Built at =   11:20:06 Sep 19 2019
+   Run by =     hwi7
+   Run Date =   Thu Nov 21 15:48:09 2019
+
+   Run on =     DESKTOP-9202K4D
+============================================================
+RUN-1002 : start command "open_project eglm35.al"
+HDL-1007 : analyze verilog file ../../rtl/eglm35.v
+HDL-1007 : analyze verilog file nitu_dre.v
+HDL-1007 : analyze verilog file de_code.v
+HDL-1007 : analyze verilog file data_handling.v
+HDL-1007 : analyze verilog file al_ip/lm35_adc.v
+HDL-1007 : analyze verilog file al_ip/adc_clk_pll.v
+RUN-1002 : start command "import_device eagle_s20.db -package BG256"
+ARC-1001 : Device Initialization.
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :            OPTION            |          IO          |   SETTING   
+ARC-1001 : ------------------------------------------------------------------
+ARC-1001 :   cso_b/cclk/mosi/miso/dout  |  T3/R11/T10/P10/S11  |    gpio    
+ARC-1001 :             done             |         P13          |    gpio    
+ARC-1001 :           program_b          |          T2          |  dedicated  
+ARC-1001 :        tdi/tms/tck/tdo       |   C12/A15/C14/E14    |  dedicated  
+ARC-1001 : ------------------------------------------------------------------
+ARC-1004 : Device setting, marked 5 dedicate IOs in total.
+RUN-1002 : start command "import_device eagle_s20.db -package BG256"

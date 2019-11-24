@@ -1,0 +1,120 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Mysoftware\modelsimv10.1\anlogic\al3_10_ver
+T_opt
+VkTXJ7K[Y;?EWJI]DIV17n3
+Z1 04 9 4 work eglm35_tb fast 0
+=1-000ec6c6c8cc-5dd6071d-3c7-55e8
+Z2 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z3 OL;O;10.1c;51
+Z4 dD:\Mysoftware\modelsimv10.1\anlogic\al3_10_ver
+T_opt1
+V>8O3h?i0C5V@z=O;j_V:Z1
+Z5 04 6 7 work eglm35 fast__1 0
+R1
+=1-000ec6c6c8cc-5dd60743-260-390c
+R2
+n@_opt1
+R3
+R4
+T_opt2
+VJV3YN^R?CJ_OG7^^8Yj[o1
+R5
+R1
+=1-000ec6c6c8cc-5dd60916-22-291c
+o-quiet -auto_acc_if_foreign -work work -L D:/Mysoftware/modelsimv10.1/anlogic/al3_10_ver
+n@_opt2
+R3
+vdata_handling
+IZNF>bFBo4B=7^fImghQSC2
+V8d7o[6fN:72AMZFcVJ21I0
+Z6 dD:\014_FPGA_Project\EG4S20BG256_Lm35Prjv0.0.1\msim
+w1574303574
+8D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/data_handling.v
+FD:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/data_handling.v
+L0 1
+Z7 OL;L;10.1c;51
+r1
+31
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 z4ZUK@=WCO6m]zge9`7Qj3
+!s90 -reportprogress|300|-work|work|-vopt|D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/data_handling.v|
+!s108 1574307975.269000
+!s107 D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/data_handling.v|
+!i10b 1
+!s85 0
+vde_code
+I5H_>iZ8CVNCOf=jZPe@oD2
+Vn3IA7B57DejO]5cZ[Ui0n1
+R6
+w1574305600
+8D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/de_code.v
+FD:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/de_code.v
+L0 6
+R7
+r1
+31
+R8
+!s100 OlRKGkfkX`jcV5DzEabh]0
+!s90 -reportprogress|300|-work|work|-vopt|D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/de_code.v|
+!s108 1574307975.325000
+!s107 D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/de_code.v|
+!i10b 1
+!s85 0
+veglm35
+IaYPi?BK5TQ4OgUCD:;j122
+V7;BLVfOlR;l8Qgn1@OC2W0
+R6
+w1574304547
+8D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/rtl/eglm35.v
+FD:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/rtl/eglm35.v
+L0 1
+R7
+r1
+31
+R8
+!s100 6oTTkMzVOzGCSf;RoGF^`3
+!s90 -reportprogress|300|-work|work|-vopt|D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/rtl/eglm35.v|
+!s108 1574307975.215000
+!s107 D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/rtl/eglm35.v|
+!i10b 1
+!s85 0
+veglm35_tb
+IVc2R23?6aFb=@@eFPT8NM0
+VD]V=1PPP;`I7XTZjO3?gI0
+R6
+w1574307971
+8D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/eglm35_tb.v
+FD:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/eglm35_tb.v
+L0 4
+R7
+r1
+31
+R8
+!s100 S>fOP`f71STX_W644Ygb20
+!s90 -reportprogress|300|-work|work|-vopt|D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/eglm35_tb.v|
+!s108 1574307975.383000
+!s107 D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/eglm35_tb.v|
+!i10b 1
+!s85 0
+vnitu_dre
+I0^BmIeKjd^g^S9]V0aH^;3
+V67j=bAh?i`Mk[81d@kKg@0
+R6
+w1574302043
+8D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/nitu_dre.v
+FD:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/nitu_dre.v
+L0 1
+R7
+r1
+31
+R8
+!s100 ^eT=AjOG^OGYfAVRCACS[1
+!s90 -reportprogress|300|-work|work|-vopt|D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/nitu_dre.v|
+!i10b 1
+!s85 0
+!s108 1574307975.440000
+!s107 D:/014_FPGA_Project/EG4S20BG256_Lm35Prjv0.0.1/prj/eglm35/nitu_dre.v|

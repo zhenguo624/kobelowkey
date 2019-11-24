@@ -1,0 +1,1181 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Mysoftware\modelsimv10.1\anlogic
+vdff_slice
+I8h;KbPakVJaJZIEgG0S3T0
+V6_O8Y6[K8AimV:B7L:TJU1
+Z1 dD:\Mysoftware\modelsimv10.1\anlogic
+Z2 w1565143176
+Z3 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_dff.v
+Z4 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_dff.v
+L0 107
+Z5 OL;L;10.1c;51
+r1
+31
+Z6 !s108 1574249289.196000
+Z7 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_dff.v|
+Z8 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_dff.v|
+Z9 o-work al3_10_ver -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 fFIJCg3R0V;kUC0RZa^Ag1
+!i10b 1
+!s85 0
+vdff_slice_half
+IQSD`Nz;m2MJdBbWGbn;=b0
+VzX7j1Y?LRk^J=>bDGZlgj2
+R1
+R2
+R3
+R4
+L0 23
+R5
+r1
+31
+R6
+R7
+R8
+R9
+!s100 bP>On1zNfC8d3jH`eU0mR0
+!i10b 1
+!s85 0
+veg_clko_ctrl
+IW[b3:8M=YbkbbZVWJNBTA0
+VhnRglfViEJZlBPlj0V_cL0
+R1
+Z10 w1568622166
+Z11 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pll.v
+Z12 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pll.v
+L0 933
+R5
+r1
+31
+Z13 !s108 1574249289.926000
+Z14 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pll.v|
+Z15 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pll.v|
+R9
+!s100 OSl@P6YM3_YGT9IZlXLdZ1
+!i10b 1
+!s85 0
+veg_clko_premux
+Ige^TGA;CGTCoa];Il^4YF1
+V52AnmIDhzcP^Ra[RRDgRi1
+R1
+R10
+R11
+R12
+L0 914
+R5
+r1
+31
+R13
+R14
+R15
+R9
+!s100 @M2WgJedO4VUN2B;W9DY]2
+!i10b 1
+!s85 0
+veg_dphase_sel
+IQlEFRO6hgKD0b?2zaaFAJ2
+V=f4j<:I1hnHU:Zm>2X5`?2
+R1
+R10
+R11
+R12
+L0 847
+R5
+r1
+31
+R13
+R14
+R15
+R9
+!s100 ZZDdkFDYnheodM^bYjgSa2
+!i10b 1
+!s85 0
+vEG_LOGIC_BRAM
+IzVIh2An]LMC:_g;KJW@Td2
+VEea_Gf0Ge3FXH[4<MGaWW3
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_bram.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_bram.v
+L0 21
+R5
+r1
+31
+R9
+n@e@g_@l@o@g@i@c_@b@r@a@m
+!s100 Z6kZj;2cJ6@nSNRR6kP7a0
+!s108 1574249287.662000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_bram.v|
+!s90 -reportprogress|300|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_bram.v|
+!i10b 1
+!s85 0
+vEG_LOGIC_BUF
+I[DlCLR]2;01V?8SiVbZUN1
+Vc1zM@K4Z=^faDjC=92IAY3
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_gate.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_gate.v
+L0 23
+R5
+r1
+31
+R9
+n@e@g_@l@o@g@i@c_@b@u@f
+!s100 NKSOm0[6hzc25UzUW?>691
+!s108 1574249288.142000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_gate.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_gate.v|
+!i10b 1
+!s85 0
+vEG_LOGIC_BUFG
+IZfHmPz=C8NR?3cZ[f6^YY0
+VeOZ9I`DDDEkLidTYd^XNI0
+R1
+R2
+Z16 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_clk.v
+Z17 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_clk.v
+L0 24
+R5
+r1
+31
+Z18 !s108 1574249287.741000
+Z19 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_clk.v|
+Z20 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_clk.v|
+R9
+n@e@g_@l@o@g@i@c_@b@u@f@g
+!s100 4_Mhe`C=ooaCHh0?eU7ih2
+!i10b 1
+!s85 0
+vEG_LOGIC_BUFGMUX
+I7m2R4^nC_hb`fnm8M5a5=2
+VC:ImGhk:MOl=ZWY911SYY2
+R1
+R2
+R16
+R17
+L0 53
+R5
+r1
+31
+R18
+R19
+R20
+R9
+n@e@g_@l@o@g@i@c_@b@u@f@g@m@u@x
+!s100 64akb@5Zh@=ACQ4=5K[HL0
+!i10b 1
+!s85 0
+vEG_LOGIC_BUFIO
+I;_7W7Q9JgNFNKTH^o65Tm1
+V<3VJ8^C6;[N4A`dGYkgLM1
+R1
+R2
+R16
+R17
+L0 32
+R5
+r1
+31
+R18
+R19
+R20
+R9
+n@e@g_@l@o@g@i@c_@b@u@f@i@o
+!s100 :jine?d<nzXKW7V9@Fza[1
+!i10b 1
+!s85 0
+vEG_LOGIC_CCLK
+IMZA23l13P3];KbCC@Bgb61
+VZR9k4P08:=UQ^?Tf`EHGE3
+R1
+R2
+Z21 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_config.v
+Z22 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_config.v
+L0 74
+R5
+r1
+31
+Z23 !s108 1574249287.841000
+Z24 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_config.v|
+Z25 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_config.v|
+R9
+n@e@g_@l@o@g@i@c_@c@c@l@k
+!s100 [0]L_YMimX0ma8VYP6e362
+!i10b 1
+!s85 0
+vEG_LOGIC_DNA
+Ik5Fja2bPJ0hYTHQzK6@T^1
+V^WonjF<S[;cG0PW82kKMJ0
+R1
+R2
+R21
+R22
+L0 37
+R5
+r1
+31
+R23
+R24
+R25
+R9
+n@e@g_@l@o@g@i@c_@d@n@a
+!s100 G_d62[`2WR^_R<36jke`l3
+!i10b 1
+!s85 0
+vEG_LOGIC_DRAM
+ITlmCe@V^J077hJm<gM4Vj0
+V60WAi^@RO2W`==K:2_X2j3
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_dram.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_dram.v
+L0 22
+R5
+r1
+31
+R9
+n@e@g_@l@o@g@i@c_@d@r@a@m
+!s100 dVh40F57zcR`7G]gTNMPU1
+!s108 1574249287.956000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_dram.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_dram.v|
+!i10b 1
+!s85 0
+vEG_LOGIC_DRAM16X4
+I77?Aa^f2U7bCe]<hD7?ZG0
+VV9f828@:IaAVkb;Wf2o<G3
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_dram16x4.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_dram16x4.v
+L0 22
+R5
+r1
+31
+R9
+n@e@g_@l@o@g@i@c_@d@r@a@m16@x4
+!s100 >KzDKB5@KkK?F=o?E94C<2
+!s108 1574249288.021000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_dram16x4.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_dram16x4.v|
+!i10b 1
+!s85 0
+vEG_LOGIC_FIFO
+I6R3PQ7L;IOON?MR4nNe^C1
+V=[BXkI_LcehgVg6KO76fn2
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_fifo.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_fifo.v
+L0 21
+R5
+r1
+31
+R9
+n@e@g_@l@o@g@i@c_@f@i@f@o
+!s100 UC]cH:PL8<5X5EldL[Wml3
+!s108 1574249288.081000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_fifo.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_fifo.v|
+!i10b 1
+!s85 0
+vEG_LOGIC_GSRN
+Ia0:=@ITcbzmNA:`<19iPR3
+V]AbjROL0DTlzn6@@Bf[Jm2
+R1
+R2
+R21
+R22
+L0 46
+R5
+r1
+31
+R23
+R24
+R25
+R9
+n@e@g_@l@o@g@i@c_@g@s@r@n
+!s100 o4NkXT=Z;hJ>Rkfd6=hUf0
+!i10b 1
+!s85 0
+vEG_LOGIC_IDDR
+If@inWK<TGR7VEQ@lHH<m@2
+Vf:47>ZWbDkcC49@97@=L]1
+R1
+R2
+Z26 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_io.v
+Z27 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_io.v
+L0 134
+R5
+r1
+31
+Z28 !s108 1574249288.205000
+Z29 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_io.v|
+Z30 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_io.v|
+R9
+n@e@g_@l@o@g@i@c_@i@d@d@r
+!s100 FX4L?a?FPZkmTa>Y__:`z3
+!i10b 1
+!s85 0
+vEG_LOGIC_IDDRx2
+IYgB1<jYKenYbGkTgiNhKS2
+V=5>zzIiOmATiZ3E0O_Thz3
+R1
+R2
+R26
+R27
+L0 244
+R5
+r1
+31
+R28
+R29
+R30
+R9
+n@e@g_@l@o@g@i@c_@i@d@d@rx2
+!s100 SWAX4l333;O>_VjFI?0Po1
+!i10b 1
+!s85 0
+vEG_LOGIC_IDELAY
+INj24zK<SzFiXz9?Gh`G6W1
+VUl^zSmm>7k]^bgKWC9c:S2
+R1
+R2
+R26
+R27
+L0 20
+R5
+r1
+31
+R28
+R29
+R30
+R9
+n@e@g_@l@o@g@i@c_@i@d@e@l@a@y
+!s100 N@mdL9M0]LP1`?`BbjmVF0
+!i10b 1
+!s85 0
+vEG_LOGIC_MBOOT
+IWA9XLH27]Xf@0]8o9:SjJ2
+VUS4ZUCe?lGYIajEXaBz5>0
+R1
+R2
+R21
+R22
+L0 27
+R5
+r1
+31
+R23
+R24
+R25
+R9
+n@e@g_@l@o@g@i@c_@m@b@o@o@t
+!s100 eQDf53fW4c>b]Y3R7oY5l3
+!i10b 1
+!s85 0
+vEG_LOGIC_MULT
+IU1DPcK1>KQ^;bG?k]io[o3
+VED9T9?Oz=[XF]Va:jJ1zW2
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_mult.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_mult.v
+L0 21
+R5
+r1
+31
+R9
+n@e@g_@l@o@g@i@c_@m@u@l@t
+!s100 :Zg`UYE^[GVXC5g?hk]]63
+!s108 1574249288.375000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_mult.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_mult.v|
+!i10b 1
+!s85 0
+vEG_LOGIC_ODDR
+I4:i;M=2SSXA44G:bB2U`b0
+VlWgmY@mGWPc[og3fIDmdo1
+R1
+R2
+R26
+R27
+L0 191
+R5
+r1
+31
+R28
+R29
+R30
+R9
+n@e@g_@l@o@g@i@c_@o@d@d@r
+!s100 T5k0eWWH:<Ik[i<mI@JIA0
+!i10b 1
+!s85 0
+vEG_LOGIC_ODDRx2
+IBeM<I[omRM96KN:F0Z3;H2
+Vih>lJjMPYb72ZlnF^L0;72
+R1
+R2
+R26
+R27
+L0 365
+R5
+r1
+31
+R28
+R29
+R30
+R9
+n@e@g_@l@o@g@i@c_@o@d@d@rx2
+!s100 2]RA60_6g5?McB8fXMUFH0
+!i10b 1
+!s85 0
+vEG_LOGIC_ODDRx2l
+IY?4:8AfR5_V]G`kjdQfnC2
+V1IzHRn2FIQ>96cnEfX4@P2
+R1
+R2
+R26
+R27
+L0 392
+R5
+r1
+31
+R28
+R29
+R30
+R9
+n@e@g_@l@o@g@i@c_@o@d@d@rx2l
+!s100 ^:[oghWQY]iR^^hN6`[c21
+!i10b 1
+!s85 0
+vEG_LOGIC_ODELAY
+IAD4SMc2mkg0;8[BXTE<`22
+VJmFdLgUHJGD?a2Ag`?94n3
+R1
+R2
+R26
+R27
+L0 320
+R5
+r1
+31
+R28
+R29
+R30
+R9
+n@e@g_@l@o@g@i@c_@o@d@e@l@a@y
+!s100 3jcdSTHd=<?mLzl<zg<da0
+!i10b 1
+!s85 0
+vEG_LOGIC_RAMFIFO
+IBJ0QQ4fRQHeCI3Ce:PX?43
+V_N=cbck04ZRD1cSKF<K=[1
+R1
+R2
+Z31 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_ramfifo.v
+Z32 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_ramfifo.v
+L0 10
+R5
+r1
+31
+Z33 !s108 1574249288.436000
+Z34 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_ramfifo.v|
+Z35 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_ramfifo.v|
+R9
+n@e@g_@l@o@g@i@c_@r@a@m@f@i@f@o
+!s100 nS>FE6:G2XY1;:D1OcDET2
+!i10b 1
+!s85 0
+vEG_LOGIC_SEQ_DIV
+I?0E8SNA9@bFH<E1Y0;i:]1
+VMcf4R]<^mKi[KZEMdRKHO0
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_arith.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_arith.v
+L0 22
+R5
+r1
+31
+R9
+n@e@g_@l@o@g@i@c_@s@e@q_@d@i@v
+!s100 d=8DU`^oo:IVX3ZVmG0?c2
+!s108 1574249287.540000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_arith.v|
+!s90 -reportprogress|300|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_logic_arith.v|
+!i10b 1
+!s85 0
+vEG_PHY_ADC
+I7]9XzC8@CXgzRAHzL_M[30
+Vg_jB4UO?]<6<869`ZF]8F0
+R1
+R2
+Z36 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_adc.v
+Z37 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_adc.v
+L0 21
+R5
+r1
+31
+Z38 !s108 1574249288.546000
+Z39 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_adc.v|
+Z40 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_adc.v|
+R9
+n@e@g_@p@h@y_@a@d@c
+!s100 6mJ[>AEl;RcUI>GPK0I@`3
+!i10b 1
+!s85 0
+vEG_PHY_BANKREF
+IgEZ:nZ7PiNSE`Bm:nBj7E2
+VU6hi=kZ^V^<z8nP7GUn:L0
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bankref.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bankref.v
+L0 1
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@b@a@n@k@r@e@f
+!s100 Y6U;mldf26Jl2aVd:JPkD1
+!s108 1574249288.633000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bankref.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bankref.v|
+!i10b 1
+!s85 0
+vEG_PHY_BRAM
+I9OV3M^Z^N`mKkEY493i[d0
+V0A2;Bg5hnXdP_?Id7RV]l0
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bram.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bram.v
+L0 26
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@b@r@a@m
+!s100 9`n=N<D[Y1:gAOz0VcXd00
+!s108 1574249288.695000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bram.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bram.v|
+!i10b 1
+!s85 0
+vEG_PHY_BRAM32K
+IGPa4Ua667EX4P[Yj?G0FX3
+VCPDO7]j[P<`:QnH`ZfY5I0
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bram32k.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bram32k.v
+L0 15
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@b@r@a@m32@k
+!s100 ]e@[A3>5?_VJX?a_=QFIk0
+!s108 1574249288.799000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bram32k.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_bram32k.v|
+!i10b 1
+!s85 0
+vEG_PHY_CLKDIV
+IEGL3dnmBkBokijd@Bl`gj3
+V]ic`Sf3Eh:mgVPdj3Lf820
+R1
+R2
+Z41 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_clk.v
+Z42 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_clk.v
+L0 80
+R5
+r1
+31
+Z43 !s108 1574249288.904000
+Z44 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_clk.v|
+Z45 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_clk.v|
+R9
+n@e@g_@p@h@y_@c@l@k@d@i@v
+!s100 O<nT00gHBaTOS9C5T`74G3
+!i10b 1
+!s85 0
+vEG_PHY_CONFIG
+I@gCdc^:AE^Kh>M;oelo:00
+VJ6kB9>2zN>T4n30e;Nl1E1
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_config.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_config.v
+L0 22
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@c@o@n@f@i@g
+!s100 788P=?0WecP]WG<G7<KgM3
+!s108 1574249288.996000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_config.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_config.v|
+!i10b 1
+!s85 0
+vEG_PHY_CSB
+I@XV2@0@7fEU`W0US5?<hF2
+VDEfWGiliI1c=kOO[;MD?o3
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_csb.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_csb.v
+L0 22
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@c@s@b
+!s100 ZbVDGRERT^jWInfiFn7jG2
+!s108 1574249289.063000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_csb.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_csb.v|
+!i10b 1
+!s85 0
+vEG_PHY_DDR_8M_16
+I=j2]MTg6HiiV8]Qa2EZMK0
+Vab[zT]60WC488KQG2<:RL0
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_ddr_8m_16.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_ddr_8m_16.v
+L0 1
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@d@d@r_8@m_16
+!s100 W46=O=iD0HZ2WfTl6KOVB1
+!s108 1574249289.135000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_ddr_8m_16.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_ddr_8m_16.v|
+!i10b 1
+!s85 0
+vEG_PHY_FIFO
+IFeMVN_k7^098ja5[8<]Nf0
+Vl6Ygo:XGf:N:0Q4dBk[N22
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_fifo.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_fifo.v
+L0 24
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@f@i@f@o
+!s100 Xn<l>zhnBCz<YIQeSEYH83
+!s108 1574249289.287000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_fifo.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_fifo.v|
+!i10b 1
+!s85 0
+vEG_PHY_GCLK
+I5:3ON@Ja8Qd>RKJRk_RHj1
+VP3zdEFMlb5RbBP9BV:7kA1
+R1
+R2
+R41
+R42
+L0 21
+R5
+r1
+31
+R43
+R44
+R45
+R9
+n@e@g_@p@h@y_@g@c@l@k
+!s100 Ue[VG]1M<SgjHBmTMjAGH2
+!i10b 1
+!s85 0
+vEG_PHY_IOCLK
+I6fRYnAaW;mO;0UiWVMh:b2
+V:e3eT4acPgiV2I5o9<Bz<1
+R1
+R2
+R41
+R42
+L0 32
+R5
+r1
+31
+R43
+R44
+R45
+R9
+n@e@g_@p@h@y_@i@o@c@l@k
+!s100 o_=A;<9S`PC=6n?eWBS<m1
+!i10b 1
+!s85 0
+vEG_PHY_LSLICE
+Ib^?bEcHZIS7Q=MEBJ?mTF2
+V0ZlF`<PfHeLcQ9JJGQE?L1
+R1
+R2
+Z46 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_lslice.v
+Z47 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_lslice.v
+L0 23
+R5
+r1
+31
+Z48 !s108 1574249289.434000
+Z49 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_lslice.v|
+Z50 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_lslice.v|
+R9
+n@e@g_@p@h@y_@l@s@l@i@c@e
+!s100 TIaJn8CRJ=1V5;`_eQHHU3
+!i10b 1
+!s85 0
+vEG_PHY_MSLICE
+IKA@4eY8j;z=5KVe54:Eok3
+V7fT1f6EAmWXOZFXTE[?=f0
+R1
+R2
+Z51 8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_mslice.v
+Z52 FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_mslice.v
+L0 24
+R5
+r1
+31
+Z53 !s108 1574249289.567000
+Z54 !s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_mslice.v|
+Z55 !s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_mslice.v|
+R9
+n@e@g_@p@h@y_@m@s@l@i@c@e
+!s100 EP`:<j`l]9>;mbYfhP^mJ1
+!i10b 1
+!s85 0
+vEG_PHY_MULT18
+I9_A^ImlAJgR_PWH=mHC9:3
+Vj90=lW<<1YS2jlJ19[<OL1
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_mult18.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_mult18.v
+L0 23
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@m@u@l@t18
+!s100 NhzeSa4fn<52FL>e0QeaL3
+!s108 1574249289.708000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_mult18.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_mult18.v|
+!i10b 1
+!s85 0
+vEG_PHY_OSC
+IgmBfCQFf6@]FnPzOG;0`i1
+VJEWRIGmVC_SzAXl1QP?J60
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_osc.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_osc.v
+L0 23
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@o@s@c
+!s100 7T2M0jT5RhMMFMdbjnQmB0
+!s108 1574249289.784000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_osc.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_osc.v|
+!i10b 1
+!s85 0
+vEG_PHY_PAD
+Ib[IP0PQk[NaJiY]XUEW^j3
+VA<d_2QW4Q_YKAL>115TaC2
+R1
+w1566184924
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pad.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pad.v
+L0 22
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@p@a@d
+!s100 _g:R3;`KmekRG[[G?;`h91
+!s108 1574249289.845000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pad.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pad.v|
+!i10b 1
+!s85 0
+vEG_PHY_PLL
+IG<lO``FkYPMeAHh@e4<mG3
+V7J;IDaZJLKGYz@Q7TE_553
+R1
+R10
+R11
+R12
+L0 25
+R5
+r1
+31
+R13
+R14
+R15
+R9
+n@e@g_@p@h@y_@p@l@l
+!s100 o4<adDgZ=RR<9k]OQk=z63
+!i10b 1
+!s85 0
+vEG_PHY_PWRMNT
+Ig>hAI>O@ffdfWfBjfJYhj2
+V[^iD6]L4?BFZ6iG1OWW2Q1
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pwrmnt.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pwrmnt.v
+L0 24
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@p@w@r@m@n@t
+!s100 BWQ_I_6C9lMJkZj]inIn?2
+!s108 1574249290.096000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pwrmnt.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_pwrmnt.v|
+!i10b 1
+!s85 0
+vEG_PHY_SDRAM_2M_32
+IPP^34T6d:nmUR<lkMdVQ13
+Vngi2YAPlLIG[V1Zf5;75A1
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_sdram_2m_32.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_sdram_2m_32.v
+L0 1
+R5
+r1
+31
+R9
+n@e@g_@p@h@y_@s@d@r@a@m_2@m_32
+!i10b 1
+!s100 `PHD7J04EJjZmP4ZKX5`H1
+!s85 0
+!s108 1574249290.164000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_sdram_2m_32.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_sdram_2m_32.v|
+veg_pll_div128
+Ilf=WNkj>QGzNZVbF]7LZK3
+Vb5QzRG`KfJLVH9fUAVnW>0
+R1
+R10
+R11
+R12
+L0 952
+R5
+r1
+31
+R13
+R14
+R15
+R9
+!s100 8BA26A[H6=FA7JI73g]G32
+!i10b 1
+!s85 0
+veg_pll_div2
+I03<?dF@CD9JHCOnD=Q;NQ3
+V2TYOK0RJYC;DMPnX5EVON3
+R1
+R10
+R11
+R12
+L0 1022
+R5
+r1
+31
+R13
+R14
+R15
+R9
+!s100 MN<ekMzM[;RALVVVMDF0Y1
+!i10b 1
+!s85 0
+vglbl
+I=;S;[c@U__87S^ET2ljz92
+VDbL]YG2GFhLmAAcPD`b9d2
+R1
+R2
+8D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_glbl.v
+FD:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_glbl.v
+L0 23
+R5
+r1
+31
+R9
+!s100 a@Y;NHM:A8zfGi2@o55Ye1
+!s108 1574249289.371000
+!s107 D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_glbl.v|
+!s90 -reportprogress|30|-work|al3_10_ver|D:/Mysoftware/modelsimv10.1/anlogic/src/eg/eg_phy_glbl.v|
+!i10b 1
+!s85 0
+vgray2bin
+IG_2?QYN?jhN6NVPb3:W711
+V<dP=niG;2AMX^l?:YXQO`1
+R1
+R2
+R31
+R32
+L0 278
+R5
+r1
+31
+R33
+R34
+R35
+R9
+!s100 AY0iY<GdRZWU>Wo4Xao]o3
+!i10b 1
+!s85 0
+vgray_count
+Ib2R8X[`g78b1DFXH3d6R33
+Vn6@;IO;TLoYaOiLA6fzA]0
+R1
+R2
+R31
+R32
+L0 298
+R5
+r1
+31
+R33
+R34
+R35
+R9
+!s100 mk3C2lc87lAGG27MRM@z30
+!i10b 1
+!s85 0
+vHARD_SAR12_ADC
+IS12Bc0G5_3XZ^OT=i<LIE0
+VLW1Qzk]BgaWUKOD[dGi6R0
+R1
+R2
+R36
+R37
+L0 99
+R5
+r1
+31
+R38
+R39
+R40
+R9
+n@h@a@r@d_@s@a@r12_@a@d@c
+!s100 Ccc:nS:X=eMAR3@Na1IAJ0
+!i10b 1
+!s85 0
+vpfb_carrysum_s0
+I:bm[agl_0dCW`^A4[KPO[0
+V1]zDeoO_WNFH?E5oc[CKT1
+R1
+R2
+R51
+R52
+L0 526
+R5
+r1
+31
+R53
+R54
+R55
+R9
+!s100 ;4J4HEC?0^EQ5mPcg]zR_2
+!i10b 1
+!s85 0
+vpfb_carrysum_s2
+IGB9nkhECGZHj_]f8;fd@H3
+V?<S<:_LdK5]az:6FUDFm`1
+R1
+R2
+R46
+R47
+L0 572
+R5
+r1
+31
+R48
+R49
+R50
+R9
+!s100 5lAUMA2V7Pc]ZYLnJjo5@3
+!i10b 1
+!s85 0
+vpfb_carrysum_s3
+IMB4M][<QDfLjhYGeO^EzE0
+Vl6j97i;l55GS=SUg<<:oI1
+R1
+R2
+R46
+R47
+L0 589
+R5
+r1
+31
+R48
+R49
+R50
+R9
+!s100 ?kDf8_RmHV>i<::5?EA;81
+!i10b 1
+!s85 0
+vpfb_dffctrl
+IF=Z_bFg=51gV4j_J8PG9o0
+Vf[PQF@;Tc]EeP>8iZLDGH0
+R1
+R2
+R3
+R4
+L0 91
+R5
+r1
+31
+R6
+R7
+R8
+R9
+!s100 U:SXP_Ie15z28TYzU?Y`H3
+!i10b 1
+!s85 0
+vpfb_lsliceomux
+InWnINkJkMQ8IG^8`mNnkb2
+VU77TIS]f=k9?a4L_z<EV=2
+R1
+R2
+R46
+R47
+L0 608
+R5
+r1
+31
+R48
+R49
+R50
+R9
+!s100 9Ca0DiP]LHFd5bRQj74=U1
+!i10b 1
+!s85 0
+vpfb_msfxmux0
+IIXfCOH<aZ_^H][_gkVa4C3
+V0M:S3caEfhP48?:T:;IBG3
+R1
+R2
+R51
+R52
+L0 554
+R5
+r1
+31
+R53
+R54
+R55
+R9
+!s100 mEzYM^eDBjOHj9fk4[DPH0
+!i10b 1
+!s85 0
+vpfb_slice01_fmux
+I1LlJmb`dKD1P2:beba9Ih1
+VOgIO@Ei_9:U7S]Wk]0KnV0
+R1
+R2
+R51
+R52
+L0 543
+R5
+r1
+31
+R53
+R54
+R55
+R9
+!s100 Kk7zT^YZZnnj6PeceJo_d2
+!i10b 1
+!s85 0
+vpfb_slice01_lut4
+I6P1dChDZdG>FYM[>19fPd0
+Vzm1@5Ka0hHco[523i6<5d2
+R1
+R2
+R51
+R52
+L0 445
+R5
+r1
+31
+R53
+R54
+R55
+R9
+!s100 Mm>mf9AGS5;RlloWeKX>_2
+!i10b 1
+!s85 0
+vpfb_slice23_lut4
+I2ii;XUjU?[Yn8g`JoVcmQ2
+VlFc8kc<?2FFAUAkHVYB@E2
+R1
+R2
+R46
+R47
+L0 540
+R5
+r1
+31
+R48
+R49
+R50
+R9
+!s100 9`BkXaz6AmjSD_cD1XnYi3
+!i10b 1
+!s85 0
+vprediv_mux
+IC_SlogoQVo>LTj2>4b9Jd2
+VZld2?6lXV=Cez5IW`XB]Z3
+R1
+R10
+R11
+R12
+L0 826
+R5
+r1
+31
+R13
+R14
+R15
+R9
+!s100 ^jRl:Y0Tz:eLH`2cZnRe30
+!i10b 1
+!s85 0
+vshowahead_buffer
+I]^SONQC;OUR2f>`IG1>Q_0
+Ve1][^NYKXzR?70cU:nYLH0
+R1
+R2
+R31
+R32
+L0 342
+R5
+r1
+31
+R33
+R34
+R35
+R9
+!s100 jEG2FKEAXn;<SH1Wi1C3f1
+!i10b 1
+!s85 0
